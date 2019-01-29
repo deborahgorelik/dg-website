@@ -1,0 +1,38 @@
+.name-medium:hover {
+	color: black;
+}
+.name-huge:hover {
+    color: pink;
+}
+h1   {color: white;}
+p    {color: white;}
+body, html {
+    margin: auto;
+    height: 300%;
+}
+.content {
+    margin-top: 50px;
+    max-width: 500px;
+    text-align: justify;
+}            
+.name {
+    padding-top: 0px;
+	font-family: 'GoogleSansBold', 'Roboto', sans-serif;
+	color: white;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+}
+.name-huge {
+    font-size: 50pt;
+}
+.name-medium {
+    font-size: 20pt;
+}
+.black {
+	font-family: 'GoogleSansBold', 'Roboto', sans-serif;
+	color: black;
+    font-weight: bold;
+}
